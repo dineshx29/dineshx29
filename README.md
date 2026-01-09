@@ -1,6 +1,7 @@
 <!-- ===================== GITHUB CONTRIBUTIONS ===================== -->
 
-<h2 align="center">GitHub Contributions</h2>
+<h2 align="center">GitHub Contributions
+
 
 <table align="center" width="90%">
   <tr>
@@ -28,3 +29,4 @@
     </td>
   </tr>
 </table>
+</h2>
